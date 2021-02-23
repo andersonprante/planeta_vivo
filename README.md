@@ -2,4 +2,4 @@
 
 "Jogo" desenvolvido para fins de validação junto com crianças no que tange a conscientização da separação do lixo.
 
-![planeta_vivo.png](Planeta vivo - tela do jogo)
+![Planeta vivo - tela do jogo](planeta_vivo.png)
